@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784444755889",
+    "firebase_url": "https://topdownshooter-ba54b-default-rtdb.firebaseio.com",
+    "project_id": "topdownshooter-ba54b",
+    "storage_bucket": "topdownshooter-ba54b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784444755889:android:2a6e44337e5a71badc7790",
+        "android_client_info": {
+          "package_name": "com.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784444755889-dfljeh5m1o1o7h9r7f8ev59ufv0bq3us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqADsMTpMZv_7MlzPJEQYlMoPjAGRWBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784444755889-dfljeh5m1o1o7h9r7f8ev59ufv0bq3us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

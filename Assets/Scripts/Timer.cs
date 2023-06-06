@@ -12,10 +12,11 @@ public class Timer : MonoBehaviour
         StartCoroutine(StartTimer());
     }
 
+    public int second, minute;
     IEnumerator StartTimer()
     {
         int timer = 0;
-        int second, minute;
+
         while (true)
         {
             timer++;
